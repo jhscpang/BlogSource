@@ -5,7 +5,7 @@ Desktop.ini
 *.swp
 *.iml
 .svn
-deploy/jhscpang.github.io/*
+deploy/*
 
 # Thumbnail cache files
 ._*
