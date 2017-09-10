@@ -1,0 +1,41 @@
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+.idea/*
+*.swp
+*.iml
+.svn
+deploy/jhscpang.github.io/*
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Compiled Python files
+*.pyc
+
+# Compiled C++ files
+*.out
+
+# Compiled Java files
+logs/
+log/
+disconf/
+.download/
+.generate/
+.logs/
+.war/
+*/target/*
+target/*
+.classpath
+.settings
+.project
+**/WEB-INF/lib/
+**/WEB-INF/class/
+**/META-INF
+un-web-deploy/
+**/WEB-INF/classes/
